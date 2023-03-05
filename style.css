@@ -39,3 +39,21 @@ a{
     border-radius: 20px;
     font-size: 20px;
 }
+/* about us */
+.about{
+    height: 600px;
+    background-color: #0a2640;
+    padding: 4rem 8rem;
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+h1{
+    font-size: 3rem;
+}
+p{
+    opacity: 0.5;
+}
