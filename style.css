@@ -78,3 +78,28 @@ p{
     justify-content: center;
     align-items: center;
 }
+/* our story */
+.our-story{
+    margin-top: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 0 5rem;
+}
+button{
+    padding: 15px 50px;
+    border-radius: 100px;
+    border: none;
+    background-color: #65e4a3;
+    font-size: 20px;
+ 
+}
+.story-button{
+    background-color: #fff;
+    border: 2px solid black;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+}
